@@ -1,6 +1,6 @@
 # Jogo da Forca SD
 
-Jogo da forca onde as dicas da palavra secreta são perguntas sobre conceitos de sistemas distribuidos 
+Jogo da forca onde as dicas da palavra secreta são perguntas sobre conceitos de sistemas distribuídos
 
 ## 🚀 Tecnologias
 - 💾 Mongoose
