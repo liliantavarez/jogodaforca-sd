@@ -1,24 +1,19 @@
 # Jogo da Forca SD
 
-Jogo da forca onde as dicas da palavra secreta são perguntas sobre conceintos de sistemas distribuido!
+Jogo da forca onde as dicas da palavra secreta são perguntas sobre conceintos de sistemas distribuidos 
 
+## 🚀 Tecnologias
+- 💾 Mongoose
+- ⚡ Express 
+- ⚛️ React
+- 🍃 Node
 
-🚀 Tecnologias
-
-💾 Mongoose
-⚡ Express
-⚛️ React
-🍃 Node
-
-
-🔥 Instalação e execução
-
-Instale o Node
-
-Faça um clone desse repositório;
-Entre na pasta cd jogodaforca-sd api;
-Rode npm install  para instalar as dependências;
-Use npm run start para rodar a api;
-Entre na pasta cd jogodaforca-sd client;
-Rode npm install  para instalar as dependências;
-Use npm run start para rodar a aplicação;
+## 🔥 Instalação e execução
+1. Instale o [Node](https://nodejs.org/en/)
+2. Faça um clone desse repositório;
+3. Entre na pasta `cd jogodafroca-sd api`;
+4. Rode `npm install`  para instalar as dependências;
+5. Use `npm run start` para rodar a api;
+6. Entre na pasta `cd jogodafroca-sd client`;
+7. Rode `npm install`  para instalar as dependências;
+8. Use `npm run start` para rodar a aplicação;
